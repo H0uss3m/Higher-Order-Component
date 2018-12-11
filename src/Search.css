@@ -1,0 +1,14 @@
+.searchBox input 
+{
+    
+    width: 50%;
+    height: 37px;
+}
+.searchBox
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.Stars{
+    font-size: 20px;
+}
